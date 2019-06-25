@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"localhost/arionsilver/gtsport_dr_getter/client"
+	"github.com/arionsilver/gtsport_dr_getter/client"
 	"log"
 	"os"
 	"strconv"
